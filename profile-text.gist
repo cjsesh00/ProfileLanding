@@ -1,0 +1,30 @@
+Bio- I am a full-time software engineering student, currently focusing on front and back-end web development. 
+I am proficient with JavaScript, CSS, HTML, and jQuery. I am passionate about technology and how it is transforming
+the world that we live in. When I am not sitting in front of the computer screen I can be found at my workbench,
+taking apart, or piecing back together mobile devices, PC components, etc.  I am a purveyor of life and its aesthetics,
+in full-pursuit of everything it has to offer.  
+
+
+Projects- 1. Quiz-App. This web-app was my first completed project. We were given strict criteria to adhere to. The most difficult for
+me was rendering the page 'live' and not re-directing the user. To accomplish this we created several 'states' based off user interaction 
+that would trigger the render() function to alter the user's view. We had a 'welcome' view, and from there progressed through 5 multiple choice questions.
+The user could see he/she's score and completed question count, were informed after each question if they were right or wrong and also given the correct 
+answer if they did not choose correctly. Finally, at a results page was displayed giving the user the option to play again. I created this 
+project using HTML5, CSS3, JavaScript, and jQuery.
+
+https://github.com/thinkful-ei-macaw/quiz-app-cz <---Repository.
+
+https://thinkful-ei-macaw.github.io/quiz-app-cz/<--- Live App.
+
+Project 2- Bookmarks-App. Again, I was provided with a monumental challenge. The focus here was to incorporate user data into a server endpoint 
+using an Api and the the four basic requests. Post, Push, Update and Delete. An interface was designed for the user to view and modify his/her's 
+favorite URL's using bookmarks. Again, the view was rendered live without re-direction. The app begins with the initial view showing all of the bookmarks 
+that have been saved. From there, one may create a new one, expand a bookmark from it's collapsed view to see options such as deleting, visiting the site in a new tab,
+or modifying the name or description. On the first render there is a filter-by-rating option that returns all the bookmarks that AT A MINIMUM meet the option's value.
+If the user creates a new one there is a form with required fields for: URL, Title, Description, and rating. An error is displayed
+if the fields are blank or entered without the correct format. The error msg also triggers if there is an error from the servers endpoint. I created this 
+project using HTML5, CSS3, JavaScript, and jQuery and API requests.
+
+https://github.com/thinkful-ei-macaw/Curtis-Bookmarks-APP <---Repository.
+
+https://thinkful-ei-macaw.github.io/Curtis-Bookmarks-APP/ <---- Live App.
